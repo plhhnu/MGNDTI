@@ -18,3 +18,6 @@ yacs~=0.1.8
 
 ## Using
 main.py: start file for model training
+
+## Data availability
+All data used in this work are from public resource. The BindingDB source is at [https://www.bindingdb.org/bind/index.jsp](https://www.bindingdb.org/bind/index.jsp); The BioSNAP source is at [https://github.com/kexinhuang12345/MolTrans](https://github.com/kexinhuang12345/MolTrans) and the Human and C.elegans source is at [https://github.com/masashitsubaki/CPI_prediction](https://github.com/masashitsubaki/CPI_prediction).
