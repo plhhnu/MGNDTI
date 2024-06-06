@@ -1,4 +1,4 @@
-## MGNDTI
+## MGNDTI: A drug-target interaction prediction framework based on multi-modal representation learning and the gating mechanism
 
 ## Framework
 ![MGNDTI](./MGNDTI.png)
