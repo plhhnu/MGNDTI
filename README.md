@@ -1,7 +1,7 @@
 ## MGNDTI
 
 ## Framework
-![MGNDTI](image/MGNDTI.png)
+![MGNDTI](./MGNDTI.png)
 
 Our code mainly references [DrugBAN](https://github.com/peizhenbai/DrugBAN) and [RetNet](https://github.com/microsoft/unilm/tree/master/retnet).
 
