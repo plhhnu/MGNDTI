@@ -1,7 +1,7 @@
 ## Ablation experiments
 
 ### (1) Ablation experiments on ReNet and GCN under the BioSNAP and BindingDB datasets and four experimental setups.
-![ablation_multimodal](./ablation_featureEncoder.png)
+![ablation_multimodal](./ablation_encoder.png)
 
 ### (2) Ablation experiments on multimodal representations under the BioSNAP and BindingDB datasets and four experimental setups.
 ![ablation_multimodal](./Ablation_multimodal.png)
